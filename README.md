@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Ricardo / @ariasllaguno1
+- 👀 I’m interested in Data Analysis, Python, Machine Learning and animals
+- 🌱 I’m currently learning Machine Learning
+- 📫 You can reach me via LinkedIn: https://www.linkedin.com/in/ricardo-arias-llaguno/
